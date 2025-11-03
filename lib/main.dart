@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
     @override
     Widget build(BuildContext context) {
         return MaterialApp(
-            title: 'YOLO Face Classification',
+            title: 'YOLO Face Detection',
             home: YOLOClassificationPage(),
             debugShowCheckedModeBanner: false,
             theme: ThemeData(
